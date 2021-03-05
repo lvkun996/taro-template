@@ -15,3 +15,11 @@ export const errorCode: number = 0
 /**
  * 错误描述
  */
+
+ 
+/**
+ * 错误描述
+ */
+
+//  export const BASEURL = 'https://open.luojigou.vip'
+export const BASEURL = 'http://192.168.1.21:38094'

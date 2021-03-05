@@ -1,0 +1,33 @@
+
+
+.lk-tabs-title {
+    display: flex;
+}
+
+
+.lk-tabs-title-item {
+    width: 120px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.lk-tabs-title-active {
+    color: aqua;
+}
+
+.lk-tabs-content-item {
+    display: flex;
+    width: 4500px;
+    height: 200px;
+}
+
+.trs {
+    transition: transform 1s;
+}
+
+

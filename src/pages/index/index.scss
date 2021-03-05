@@ -1,2 +1,14 @@
 @import "~taro-ui/dist/style/components/nav-bar.scss";
 @import "~taro-ui/dist/style/components/icon.scss";
+
+
+.text-item {
+    width: 100vw;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    margin-top: 2px;
+}

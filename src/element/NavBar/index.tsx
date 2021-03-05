@@ -32,7 +32,7 @@ const NavBar: React.FC<NavBar.NavBarProps> = (
     useEffect( () => {
         getNavBarHeight()
         text().then( res => {
-            console.log(res, 'res');
+      
             
         })
     }, [])
